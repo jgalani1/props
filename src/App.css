@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.personalInfo {
+  color: red;
+  background-color: orange;
+}
+
+.Header {
+  color: black;
+  background-color: lightskyblue;
+  height: 40px;
+  font-size: 2em;
+  padding: 20px;
+}
+
+.Footer {
+  color: black;
+  position: fixed;
+  background-color: tan;
+  bottom: 0px;
+  height: 20px;
+  width: 100vw;
+}
